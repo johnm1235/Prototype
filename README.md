@@ -1,12 +1,7 @@
-# Mi Prototipo 1 para trabajar con Git
+# Mi Prototipo 1 cambiadp
 ## Concepto
-Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente
+Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente para el juego de programacion final
 
 > Unity es fenomenal
 
 Este es un ejemplo de un codigo en archivo READ.md
-```
-git status
-git add
-git commit
-```
